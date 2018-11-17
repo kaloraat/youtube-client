@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Screenshot
+<img src="app.png" alt="React Youtube Search App" />
+
 ## Live Demo
 
 [https://utube-client.firebaseapp.com](https://utube-client.firebaseapp.com)
